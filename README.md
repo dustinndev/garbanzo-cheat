@@ -6,7 +6,7 @@ Completes garbanzo.io assignments for you.
 
 ## Setup
 
-Go to **https://garbanzo-app.fly.dev** and drag the **Garbanzo Script** button into your bookmarks bar.
+Go to **https://dustinndev.github.io/garbanzo-cheat** and drag the **Garbanzo Script** button into your bookmarks bar. (Also at https://garbanzo-app.fly.dev.)
 
 ![Dragging the Garbanzo Script button into the bookmarks bar](docs/bookmarklet.png)
 
